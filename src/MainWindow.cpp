@@ -7,7 +7,7 @@
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow)
 {
 
-    // teste
+    // teste atualizado .....
     ui->setupUi(this);
 
     fila = new CommandQueue();
